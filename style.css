@@ -1,0 +1,124 @@
+#header{
+    text-align: left;
+    background-color:rgb(27, 131, 131) ;
+    color: white;
+  }
+
+.header1{
+    text-align: left;
+}
+
+
+#nav-link{
+    text-align: right;
+}
+
+.navbar {
+    display: flex;
+}
+
+.container {
+    padding: 5%;
+    max-width: 1200px;
+    background-color: white;
+    word-wrap: break-word;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container1 {
+    padding-left: 35px;
+    max-width: 900px;
+    background-color: white;
+    word-wrap: break-word;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container2 {
+    padding: 5%;
+    max-width: 1100px;
+    background-color: white;
+    word-wrap: break-word;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.summary{
+    max-width: 600px;
+    padding-left: 50px;
+    padding-right: 50px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgb(27, 131, 131)
+
+}
+
+.summary1{
+    max-width: 600px;
+    padding-left: 50px;
+    padding-right: 50px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgb(27, 131, 131)
+
+}
+
+
+
+.gap{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.visual{
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    
+}
+
+.bcolor{
+    background-color:rgb(27, 131, 131);
+}
+
+
+h1{
+    color:rgb(27, 131, 131);
+}
+
+
+
+h3 {
+    padding:3px;
+    background-color:rgb(27, 131, 131) ;
+    color: white;
+    display: inline-block;
+}
+
+.box-set {
+    position: relative;
+    position: relative;
+    height: 900px;
+    background: darkgray;
+}
+
+.clearfix {
+    overflow: auto;
+}
+      
+.img1 {
+    padding: 20px;
+    float: left;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
